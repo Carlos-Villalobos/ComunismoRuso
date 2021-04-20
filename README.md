@@ -11,7 +11,7 @@ Primero que nada, en la terminal pon el siguiente código:
 
 ```sh
  git clone https://github.com/Carlos-Villalobos/ComunismoRuso.git
- cd HomeWorkNotification/
+ cd ComunismoRuso/
 ```
 ---
 ## Using the webpage
